@@ -1,6 +1,9 @@
 # flutter_grpc_example
 
-A new Flutter project.
+flutter grpc example 
+
+### server <-> client 
+### Unary <-> Unary Success
 
 ## Getting Started
 
