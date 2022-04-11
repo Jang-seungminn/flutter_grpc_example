@@ -2,8 +2,13 @@
 
 flutter grpc example 
 
-### server <-> client 
-### Unary <-> Unary Success
+ server <-> client 
+ Unary <-> Unary  : Success
+ Unary <-> Stream  : Not yet
+ Stream <-> Unary  : Not yet
+ Stream <-> Stream  : Not yet
+
+  
 
 ## Getting Started
 
