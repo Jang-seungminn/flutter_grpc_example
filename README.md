@@ -1,6 +1,6 @@
 # flutter_grpc_example
 
-##flutter grpc example 
+## flutter grpc example 
 
 ### server <-> client 
 #### Unary <-> Unary  : Success
